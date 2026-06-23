@@ -21,6 +21,7 @@ pip install -r requirements.txt
 huggingface-cli login
 ```
 - Deploy NephroCAGE in `data/v1/`
+  (*Note*: Not publicly available!)
 
 ### 3. Training
 
