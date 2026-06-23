@@ -8,4 +8,5 @@ data/embeddings/
 models/
 TIMING/
 medai
+notebooks/logs/
 !data/parameters.yaml
