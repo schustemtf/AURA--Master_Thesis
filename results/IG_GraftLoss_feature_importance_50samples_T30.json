@@ -1,0 +1,107 @@
+[
+    {
+        "Feature": "Cold ischemia time",
+        "IG Value": 0.0009201284847222269,
+        "Clinical Rating": 2
+    },
+    {
+        "Feature": "Broad antigen mismatch",
+        "IG Value": 0.0009526048670522869,
+        "Clinical Rating": 1
+    },
+    {
+        "Feature": "Number of dialyses",
+        "IG Value": 0.0011572150979191065,
+        "Clinical Rating": 4
+    },
+    {
+        "Feature": "PIRCHE score",
+        "IG Value": 0.0012146204244345427,
+        "Clinical Rating": 3
+    },
+    {
+        "Feature": "Age (donor)",
+        "IG Value": 0.0012822815915569663,
+        "Clinical Rating": 2
+    },
+    {
+        "Feature": "Age (recipient)",
+        "IG Value": 0.00257300678640604,
+        "Clinical Rating": 3
+    },
+    {
+        "Feature": "ACR",
+        "IG Value": 0.00763854943215847,
+        "Clinical Rating": 2
+    },
+    {
+        "Feature": "C-Reactive protein",
+        "IG Value": 0.026147812604904175,
+        "Clinical Rating": 3
+    },
+    {
+        "Feature": "Methylprednisolone",
+        "IG Value": 0.032707709819078445,
+        "Clinical Rating": 4
+    },
+    {
+        "Feature": "Clinical Notes",
+        "IG Value": 0.035927411168813705,
+        "Clinical Rating": 0
+    },
+    {
+        "Feature": "Leukocyte",
+        "IG Value": 0.039220474660396576,
+        "Clinical Rating": 5
+    },
+    {
+        "Feature": "Creatinine",
+        "IG Value": 0.0392807275056839,
+        "Clinical Rating": 1
+    },
+    {
+        "Feature": "Ciclosporin",
+        "IG Value": 0.04151056334376335,
+        "Clinical Rating": 3
+    },
+    {
+        "Feature": "Urine volume",
+        "IG Value": 0.05067015439271927,
+        "Clinical Rating": 1
+    },
+    {
+        "Feature": "Temperature",
+        "IG Value": 0.05104153975844383,
+        "Clinical Rating": 5
+    },
+    {
+        "Feature": "eGFR",
+        "IG Value": 0.054953694343566895,
+        "Clinical Rating": 1
+    },
+    {
+        "Feature": "Tacrolimus",
+        "IG Value": 0.05740963667631149,
+        "Clinical Rating": 2
+    },
+    {
+        "Feature": "Proteinuria",
+        "IG Value": 0.06248582527041435,
+        "Clinical Rating": 2
+    },
+    {
+        "Feature": "Weight",
+        "IG Value": 0.06853334605693817,
+        "Clinical Rating": 3
+    },
+    {
+        "Feature": "Heart rate",
+        "IG Value": 0.07581809163093567,
+        "Clinical Rating": 5
+    },
+    {
+        "Feature": "Systolic blood pressure",
+        "IG Value": 0.11359622329473495,
+        "Clinical Rating": 4
+    }
+]

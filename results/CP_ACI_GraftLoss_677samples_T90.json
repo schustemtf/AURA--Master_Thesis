@@ -1,0 +1,82 @@
+[
+    {
+        "Feature": "bp_sys",
+        "Mean Coverage": 0.9248317741670771,
+        "Mean Bound Width": 0.678589463623498
+    },
+    {
+        "Feature": "bp_dia",
+        "Mean Coverage": 0.9183325127195163,
+        "Mean Bound Width": 1.3416728423643671
+    },
+    {
+        "Feature": "weight",
+        "Mean Coverage": 0.9186935827999342,
+        "Mean Bound Width": 1.3319257882981952
+    },
+    {
+        "Feature": "urine_volume",
+        "Mean Coverage": 0.9374035778762506,
+        "Mean Bound Width": 0.5133899491028909
+    },
+    {
+        "Feature": "hr",
+        "Mean Coverage": 0.9245691777449546,
+        "Mean Bound Width": 1.694129469304773
+    },
+    {
+        "Feature": "temperature",
+        "Mean Coverage": 0.9277203348104388,
+        "Mean Bound Width": 0.4209980793422578
+    },
+    {
+        "Feature": "diuresis_time",
+        "Mean Coverage": 0.9307073691120953,
+        "Mean Bound Width": 1.1457303299775465
+    },
+    {
+        "Feature": "creatinine",
+        "Mean Coverage": 0.9158050221565747,
+        "Mean Bound Width": 0.9727806949217922
+    },
+    {
+        "Feature": "leukocyte",
+        "Mean Coverage": 0.9248974232726089,
+        "Mean Bound Width": 0.9449666929861782
+    },
+    {
+        "Feature": "proteinuria",
+        "Mean Coverage": 0.9310027900869856,
+        "Mean Bound Width": 0.559938168859122
+    },
+    {
+        "Feature": "crphp",
+        "Mean Coverage": 0.9204332840965047,
+        "Mean Bound Width": 1.3573332045021584
+    },
+    {
+        "Feature": "egfr",
+        "Mean Coverage": 0.9241096340062364,
+        "Mean Bound Width": 1.583095153599225
+    },
+    {
+        "Feature": "acr",
+        "Mean Coverage": 0.9200393894633191,
+        "Mean Bound Width": 0.7976242492788095
+    },
+    {
+        "Feature": "Tacrolimus",
+        "Mean Coverage": 0.92010503856885,
+        "Mean Bound Width": 1.4870612926412852
+    },
+    {
+        "Feature": "Methylprednisolon",
+        "Mean Coverage": 0.9252913179057942,
+        "Mean Bound Width": 1.1341630757095509
+    },
+    {
+        "Feature": "Ciclosporin",
+        "Mean Coverage": 0.9148531101263755,
+        "Mean Bound Width": 0.9755011761024023
+    }
+]

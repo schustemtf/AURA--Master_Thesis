@@ -1,0 +1,107 @@
+[
+    {
+        "Feature": "Broad antigen mismatch",
+        "IG Value": 0.00117381545715034,
+        "Clinical Rating": 1
+    },
+    {
+        "Feature": "Cold ischemia time",
+        "IG Value": 0.0013467404060065746,
+        "Clinical Rating": 2
+    },
+    {
+        "Feature": "Age (donor)",
+        "IG Value": 0.0021467087790369987,
+        "Clinical Rating": 2
+    },
+    {
+        "Feature": "PIRCHE score",
+        "IG Value": 0.002700059674680233,
+        "Clinical Rating": 3
+    },
+    {
+        "Feature": "Number of dialyses",
+        "IG Value": 0.0067838686518371105,
+        "Clinical Rating": 4
+    },
+    {
+        "Feature": "Age (recipient)",
+        "IG Value": 0.00925400760024786,
+        "Clinical Rating": 3
+    },
+    {
+        "Feature": "ACR",
+        "IG Value": 0.018911978229880333,
+        "Clinical Rating": 2
+    },
+    {
+        "Feature": "Methylprednisolone",
+        "IG Value": 0.023031555116176605,
+        "Clinical Rating": 4
+    },
+    {
+        "Feature": "Ciclosporin",
+        "IG Value": 0.0379951149225235,
+        "Clinical Rating": 3
+    },
+    {
+        "Feature": "Clinical Notes",
+        "IG Value": 0.03824520856142044,
+        "Clinical Rating": 0
+    },
+    {
+        "Feature": "Tacrolimus",
+        "IG Value": 0.0387529693543911,
+        "Clinical Rating": 2
+    },
+    {
+        "Feature": "C-Reactive protein",
+        "IG Value": 0.04787183552980423,
+        "Clinical Rating": 3
+    },
+    {
+        "Feature": "Temperature",
+        "IG Value": 0.049305565655231476,
+        "Clinical Rating": 5
+    },
+    {
+        "Feature": "Proteinuria",
+        "IG Value": 0.06607010215520859,
+        "Clinical Rating": 2
+    },
+    {
+        "Feature": "Leukocyte",
+        "IG Value": 0.0764985978603363,
+        "Clinical Rating": 5
+    },
+    {
+        "Feature": "eGFR",
+        "IG Value": 0.09281766414642334,
+        "Clinical Rating": 1
+    },
+    {
+        "Feature": "Urine volume",
+        "IG Value": 0.09332434087991714,
+        "Clinical Rating": 1
+    },
+    {
+        "Feature": "Heart rate",
+        "IG Value": 0.09568991512060165,
+        "Clinical Rating": 5
+    },
+    {
+        "Feature": "Creatinine",
+        "IG Value": 0.11075994372367859,
+        "Clinical Rating": 1
+    },
+    {
+        "Feature": "Weight",
+        "IG Value": 0.11580075323581696,
+        "Clinical Rating": 3
+    },
+    {
+        "Feature": "Systolic blood pressure",
+        "IG Value": 0.16893507540225983,
+        "Clinical Rating": 4
+    }
+]

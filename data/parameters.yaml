@@ -1,0 +1,34 @@
+# This file is not used in the actual code.
+# It was created in hindsight to store all relevant parameters of
+# experiments present in the thesis report, to ease reproduction.
+
+local_explainability:
+  # When plotting with local_results.ipynb, the same parameters must match those used during the experiment.
+  samples: 677  # equivalent to test_size
+  m_steps: 300
+  T_max: 30  # tested: [20, 30, 60, 120, 240]
+  version: IG  # or: TIMING
+  num_segments: null  # null if version=IG, 3 if version=TIMING
+  prediction_steps_ahead: 1
+  task:
+    - GraftLoss
+    - Rejection
+    - Mortality
+
+global_explainability:
+  T_max: 20
+  prediction_steps_ahead: 1
+  condition:
+    - y: 0
+  task:
+    - GraftLoss
+    - Rejection
+    - Mortality
+
+uncertainty_quantification:
+  T_max: 90
+  prediction_steps_ahead: 1
+  task:
+    - GraftLoss
+    - Rejection
+    - Mortality

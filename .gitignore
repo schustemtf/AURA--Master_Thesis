@@ -1,0 +1,11 @@
+data/v1/
+data/v2/
+data/embeddings/
+*__pycache__
+.vscode
+.conda
+.venv
+models/
+TIMING/
+medai
+!data/parameters.yaml
